@@ -1,0 +1,16 @@
+h1 {
+  font-size: 32px;
+  color: red;
+  text-align: center;
+}
+body {
+  background-color: blue;
+  width: 25px;
+  height: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+main>ul {
+  color: brown;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
